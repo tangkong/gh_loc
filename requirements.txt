@@ -1,3 +1,4 @@
 aiohttp
 jq
+matplotlib
 pandas
