@@ -2,3 +2,4 @@ aiohttp
 jq
 matplotlib
 pandas
+pygithub
